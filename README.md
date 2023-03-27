@@ -1,4 +1,6 @@
-# Password-Generator_JS
+# Password-Generator_JS 
+Deployed URL: https://jessfarron.github.io/Password-Generator_JessicaSanchez/
+
  The code (HTML, CSS and Javascript) contained in this repository allows generating a password depending on the characteristics that the user accepts (uppercase, lowercase, symbols and numbers).
  
  
